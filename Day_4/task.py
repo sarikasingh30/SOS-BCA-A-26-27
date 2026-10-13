@@ -32,11 +32,12 @@
 #     print("zero")
 
 # Nested if
-username="admin"
-password="1234"
+# username="admin"
+# password="1234"
 
-if username=="admin":
-    if password=="1234":
-        print(f"Welcome {username}")
-else:
-    print("Invalid Credentials")
+# if username=="admin":
+#     if password=="1234":
+#         print(f"Welcome {username}")
+# else:
+#     print("Invalid Credentials")
+# ........................................................................
